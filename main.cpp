@@ -5,7 +5,7 @@
 int main(int argc, char** argv) {
 	
 	
-	int x;
+	int x = 3;
 	
 	return 0;
 }
